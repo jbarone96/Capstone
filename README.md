@@ -1,4 +1,4 @@
-# Capstone
+# Top Eats
 Capstone Project - Top Eats
 
 Top Eats is an application that allows users to discover their new favorite restaurants. Our app will show you restaurants that match your 
