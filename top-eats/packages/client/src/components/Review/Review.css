@@ -1,0 +1,25 @@
+button {
+  display: inline-flex;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: auto;
+}
+
+.on {
+  background-color: transparent;
+  color: rgb(255, 204, 0);
+  width: 20px;
+  height: 20px;
+  cursor: pointe;
+}
+
+.off {
+  background-color: transparent;
+  color: #ccc;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
